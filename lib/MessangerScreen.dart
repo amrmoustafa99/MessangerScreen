@@ -78,7 +78,7 @@ class MessangerScreen extends StatelessWidget {
                     SizedBox(
                       width: 10,
                     ),
-                    Text('Search111111111111111111'),
+                    Text('Search'),
                   ],
                 ),
               ),
